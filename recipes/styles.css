@@ -6,8 +6,26 @@ h1 {
 
 h2 {
     font-family: monospace;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 h3 {
     font-family: monospace;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-family: monospace;
+}
+
+ol {
+    font-family: monospace;
+}
+
+button {
+    margin-top: 50px;
 }
