@@ -7,3 +7,17 @@ h1 {
 .trust {
     font-family: monospace;
 }
+
+.trustsmall {
+    font-family: monospace;
+    font-size: 12px;
+}
+
+.heading1 {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
