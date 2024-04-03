@@ -28,4 +28,22 @@ ol {
 
 button {
     margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.scores {
+    font-family: monospace;
+    font-size: 12px;
+    color: rgb(92, 92, 92);
+}
+
+.notes {
+    font-family: monospace;
+    font-size: 12px;
+    margin-top: 1px;
+    color: blue;
+}
+
+body {
+    background-color: rgb(255, 249, 242);
 }
