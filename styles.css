@@ -4,6 +4,10 @@ h1 {
     font-family: monospace;
 }
 
+body {
+    background-color: rgb(255, 249, 242);
+}
+
 .trust {
     font-family: monospace;
 }
